@@ -646,7 +646,7 @@
   "gui_hotbar_grid_item": {
     "type": "panel",
     "layer": 1,
-    "size": [ 20, 22 ],
+    "size": [ 40, 44 ],
     "anchor_to": "top_left",
     "anchor_from": "top_left",
     "$stack_count_required|default": true,
@@ -657,11 +657,11 @@
       {
         "hotbar_parent": {
           "type": "panel",
-          "size": [ 18, 18 ],
+          "size": [ 25, 25 ],
           "controls": [
             {
               "item_icon@hotbar_hud_item_icon": {
-                "size": [ 16, 16 ]
+                "size": [ 23, 23 ]
               }
             },
             {
