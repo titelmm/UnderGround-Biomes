@@ -36,7 +36,7 @@
   "hotbar_renderer": {
     "type": "custom",
     "renderer": "hotbar_renderer",
-    "size": [ 20, 22 ],
+    "size": [ 30, 32 ],
     "layer": 1,
     "bindings": [
       {
@@ -52,7 +52,7 @@
   "cooldown_renderer": {
     "type": "custom",
     "renderer": "hotbar_cooldown_renderer",
-    "size": [ 20, 22 ],
+    "size": [ 30, 32 ],
     "layer": 1,
     "bindings": [
       {
